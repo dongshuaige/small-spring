@@ -1,8 +1,8 @@
 package cn.hgd.springframework.factory.support;
 
 import cn.hgd.springframework.BeansException;
-import cn.hgd.springframework.bean.PropertyValue;
-import cn.hgd.springframework.bean.PropertyValues;
+import cn.hgd.springframework.PropertyValue;
+import cn.hgd.springframework.PropertyValues;
 import cn.hgd.springframework.factory.config.BeanDefinition;
 import cn.hgd.springframework.factory.config.BeanReference;
 import cn.hutool.core.bean.BeanUtil;
