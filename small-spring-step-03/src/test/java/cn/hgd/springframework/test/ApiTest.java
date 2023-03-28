@@ -1,8 +1,8 @@
 package cn.hgd.springframework.test;
 
 import cn.hgd.springframework.test.bean.UserService;
-import cn.hgd.springframework.factory.config.BeanDefinition;
-import cn.hgd.springframework.factory.support.DefaultListableBeanFactory;
+import cn.hgd.springframework.beans.factory.config.BeanDefinition;
+import cn.hgd.springframework.beans.factory.support.DefaultListableBeanFactory;
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.NoOp;
 import org.junit.Test;

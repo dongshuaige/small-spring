@@ -1,6 +1,6 @@
-package cn.hgd.springframework.factory.support;
+package cn.hgd.springframework.beans.factory.support;
 
-import cn.hgd.springframework.factory.config.BeanDefinition;
+import cn.hgd.springframework.beans.factory.config.BeanDefinition;
 
 /**
  * Bean注册表
