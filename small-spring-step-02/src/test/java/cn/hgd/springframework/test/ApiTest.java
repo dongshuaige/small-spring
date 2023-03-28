@@ -1,7 +1,7 @@
 package cn.hgd.springframework.test;
 
-import cn.hgd.springframework.factory.config.BeanDefinition;
-import cn.hgd.springframework.factory.support.DefaultListableBeanFactory;
+import cn.hgd.springframework.beans.factory.config.BeanDefinition;
+import cn.hgd.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.junit.Test;
 import cn.hgd.springframework.test.bean.UserService;
 

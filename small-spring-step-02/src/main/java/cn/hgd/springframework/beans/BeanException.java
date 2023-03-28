@@ -1,4 +1,4 @@
-package cn.hgd.springframework;
+package cn.hgd.springframework.beans;
 
 /**
  * @author hgd

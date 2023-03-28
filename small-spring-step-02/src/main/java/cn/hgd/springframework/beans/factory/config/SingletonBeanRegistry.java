@@ -1,4 +1,4 @@
-package cn.hgd.springframework.factory.config;
+package cn.hgd.springframework.beans.factory.config;
 
 /**
  * 单例注册表
