@@ -1,10 +1,10 @@
-package cn.hgd.springframework.factory.support;
+package cn.hgd.springframework.beans.factory.support;
 
-import cn.hgd.springframework.BeansException;
-import cn.hgd.springframework.PropertyValue;
-import cn.hgd.springframework.PropertyValues;
-import cn.hgd.springframework.factory.config.BeanDefinition;
-import cn.hgd.springframework.factory.config.BeanReference;
+import cn.hgd.springframework.beans.BeansException;
+import cn.hgd.springframework.beans.PropertyValue;
+import cn.hgd.springframework.beans.PropertyValues;
+import cn.hgd.springframework.beans.factory.config.BeanDefinition;
+import cn.hgd.springframework.beans.factory.config.BeanReference;
 import cn.hutool.core.bean.BeanUtil;
 
 import java.lang.reflect.Constructor;

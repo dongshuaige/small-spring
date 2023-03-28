@@ -1,4 +1,4 @@
-package cn.hgd.springframework;
+package cn.hgd.springframework.beans;
 
 import java.util.ArrayList;
 import java.util.List;

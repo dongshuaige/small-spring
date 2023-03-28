@@ -1,8 +1,8 @@
-package cn.hgd.springframework.factory.support;
+package cn.hgd.springframework.beans.factory.support;
 
-import cn.hgd.springframework.BeansException;
-import cn.hgd.springframework.factory.BeanFactory;
-import cn.hgd.springframework.factory.config.BeanDefinition;
+import cn.hgd.springframework.beans.BeansException;
+import cn.hgd.springframework.beans.factory.BeanFactory;
+import cn.hgd.springframework.beans.factory.config.BeanDefinition;
 
 /**
  * @author hgd

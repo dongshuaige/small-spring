@@ -1,6 +1,6 @@
-package cn.hgd.springframework.factory.config;
+package cn.hgd.springframework.beans.factory.config;
 
-import cn.hgd.springframework.PropertyValues;
+import cn.hgd.springframework.beans.PropertyValues;
 
 /**
  * Bean定义

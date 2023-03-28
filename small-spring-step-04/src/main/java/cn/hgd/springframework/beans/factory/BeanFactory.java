@@ -1,6 +1,6 @@
-package cn.hgd.springframework.factory;
+package cn.hgd.springframework.beans.factory;
 
-import cn.hgd.springframework.BeansException;
+import cn.hgd.springframework.beans.BeansException;
 
 /**
  * Bean 工厂接口

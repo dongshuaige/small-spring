@@ -1,7 +1,7 @@
-package cn.hgd.springframework.factory.support;
+package cn.hgd.springframework.beans.factory.support;
 
-import cn.hgd.springframework.BeansException;
-import cn.hgd.springframework.factory.config.BeanDefinition;
+import cn.hgd.springframework.beans.BeansException;
+import cn.hgd.springframework.beans.factory.config.BeanDefinition;
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.NoOp;
 

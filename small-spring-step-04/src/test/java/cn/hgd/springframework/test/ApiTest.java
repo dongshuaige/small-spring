@@ -1,10 +1,10 @@
 package cn.hgd.springframework.test;
 
-import cn.hgd.springframework.PropertyValue;
-import cn.hgd.springframework.PropertyValues;
-import cn.hgd.springframework.factory.config.BeanDefinition;
-import cn.hgd.springframework.factory.config.BeanReference;
-import cn.hgd.springframework.factory.support.DefaultListableBeanFactory;
+import cn.hgd.springframework.beans.PropertyValue;
+import cn.hgd.springframework.beans.PropertyValues;
+import cn.hgd.springframework.beans.factory.config.BeanDefinition;
+import cn.hgd.springframework.beans.factory.config.BeanReference;
+import cn.hgd.springframework.beans.factory.support.DefaultListableBeanFactory;
 import cn.hgd.springframework.test.bean.UserDao;
 import cn.hgd.springframework.test.bean.UserService;
 import org.junit.Test;
